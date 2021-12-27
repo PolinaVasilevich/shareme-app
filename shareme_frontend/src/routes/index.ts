@@ -1,4 +1,3 @@
-import App from "../App";
 import Home from "../container/Home";
 import Login from "../container/Login";
 
